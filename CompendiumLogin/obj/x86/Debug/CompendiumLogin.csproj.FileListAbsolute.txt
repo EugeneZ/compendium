@@ -1,0 +1,10 @@
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\bin\Debug\CompendiumLogin.exe.config
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\CompendiumLogin.CompendiumLogin.resources
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\CompendiumLogin.Properties.Resources.resources
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\bin\Debug\CompendiumLogin.exe
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\bin\Debug\CompendiumLogin.pdb
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\CompendiumLogin.exe
+C:\Users\Eugene\documents\visual studio 2010\Projects\CompendiumLogin\CompendiumLogin\obj\x86\Debug\CompendiumLogin.pdb
